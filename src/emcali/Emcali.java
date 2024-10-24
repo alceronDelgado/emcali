@@ -23,7 +23,7 @@ public class Emcali {
          
         switch(estratoSocial){
             case 1:
-                valorBase = 500;
+                valorBase = 5003;
                 
                 break;
             case 2:
